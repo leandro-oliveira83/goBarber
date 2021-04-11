@@ -11,11 +11,6 @@
   <a href="#android-starting-mobile">React Native</a>
 </p>
 
-<h1 align="center">
-    <img alt="GoBarber" src="https://res.cloudinary.com/matheuspires/image/upload/v1591099832/gobarber_wadrfc.gif" />
-    <img alt="GoBarber Mobile" src="https://res.cloudinary.com/matheuspires/image/upload/v1592746410/gobarber-mobile_zfchn9.gif" />
-</h1>
-
 ## :page_with_curl: About
 This repository contains an API REST in Node.js, web application in React JS and a mobile app in React Native. All applications developed in Typescript.
 
