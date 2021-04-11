@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Gobarber" src="https://ik.imagekit.io/hwyksvj4iv/gobarber_19xmN2BUU.svg" width="250px" />
+    <img alt="Gobarber" src="https://thexcodes.com/wp-content/uploads/2021/04/gobarber-logo.png" />
 </h1>
 
 <p align="center">
@@ -10,6 +10,10 @@
   <a href="#computer-starting-front-end">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#ipnone-starting-mobile">React Native</a>
 </p>
+
+<h1 align="center">
+    <img alt="GoBarber" src="https://thexcodes.com/wp-content/uploads/2021/04/gobarber-e1618164845673.png" />
+</h1>
 
 ## :page_with_curl: About
 This repository contains an API REST in Node.js, web application in React JS and a mobile app in React Native. All applications developed in Typescript.
