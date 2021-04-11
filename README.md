@@ -8,7 +8,7 @@
   <a href="#rocket-start">Start</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-starting-back-end">Node.js</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-starting-front-end">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#android-starting-mobile">React Native</a>
+  <a href="#ipnone-starting-mobile">React Native</a>
 </p>
 
 ## :page_with_curl: About
@@ -29,7 +29,7 @@ This repository contains an API REST in Node.js, web application in React JS and
 
 ## :rocket: Start
 ``` bash
-  # Centry olone the project:
+  # Clone the project:
   $ git clone https://github.com/leandro-oliveira83/goBarber.git
 
   # Entry on directory:
@@ -63,7 +63,7 @@ This repository contains an API REST in Node.js, web application in React JS and
   $ yarn start
 ```
 
-## :android: Starting mobile
+## :iphone: Starting mobile
 ```bash
   # Entry on directory go-barber-mobile:
   $ cd go-barber-mobile
